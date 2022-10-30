@@ -15,6 +15,7 @@ Features:
 
 Whats next:
 -Custom AI, 
--Improvements 
+-Improvements,
+-much more
 
 Have fun!
