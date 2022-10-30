@@ -2,11 +2,11 @@
 
 Features:
 (in german only)
--Custom answeres
+-Custom answeres,
 -various implementations 
 
 Whats next:
--Custom AI
+-Custom AI, 
 -Improvements 
 
 Have fun!
