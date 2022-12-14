@@ -1,21 +1,20 @@
 # Python-Chatbot
 
-Pre-Requirenments: 
+# Pre-Requirenments: 
 
 For the python code, latest python version installed.
+https://www.python.org/downloads/
 
 For the Chatbot.exe file: nothing
 
 
-Features:
+# Features:
 (in german only)
--Custom answeres,
--various implementations 
+Custom answeres,
+various implementations 
 
 
-Whats next:
--Custom AI, 
--Improvements,
--much more
+# Whats next:
+Custom AI, Improvements, much more
 
 Have fun!
