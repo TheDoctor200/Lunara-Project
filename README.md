@@ -9,12 +9,12 @@ For the Chatbot.exe file: nothing (all libraries are already in)
 
 
 # Current Features:
-(in german only) English: Soon TBD
+(in german only) English: now in
 Answers to custom words,
 various implementations 
 
 
 # Whats next:
-Custom AI, Improvements, Reactings to sentences, much more
+Custom AI, Improvements, more
 
 Have fun!
