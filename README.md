@@ -4,6 +4,8 @@
 
 For the python code, latest python version (3.8 or newer) installed.
 https://www.python.org/downloads/
++ install Requirenment with pip in your terminal:
+pip install openai
 
 For the Chatbot.exe file: nothing (all libraries are already in)
 
