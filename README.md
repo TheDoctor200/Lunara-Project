@@ -9,7 +9,7 @@ For the Chatbot.exe file: nothing (all libraries are already in)
 
 
 # Current Features:
-(in german only) English: now in
+(in german only) English: now in,
 Answers to custom words,
 various implementations 
 
