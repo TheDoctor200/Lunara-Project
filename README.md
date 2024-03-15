@@ -6,7 +6,7 @@ Welcome to the Lunara project! Lunara is designed to engage with users in both G
 
 ## Prerequisites
 
-- **Python:** Ensure you have the latest version of Python (3.8 or newer) installed. You can download it from [python.org](https://www.python.org/downloads/).
+- **Python:** Ensure you have the latest version of Python (3.11 or newer) installed. You can download it from [python.org](https://www.python.org/downloads/).
 - **Dependencies:** Install the necessary dependencies using pip:
 
 
